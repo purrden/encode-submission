@@ -1,12 +1,14 @@
 As the time before deadline is limited, this document is going to be in the format of a iterative todo, where the next item appears as an outcome of the previous one.
 Each new item in the list appears at the top of the list.
 
-
+[] create a purr_numero_uno.md with description of the first batch of tools that I plan to release before summer'26
 =======
 review notes:
-
+* text entries for the application are mostly done.
+* research summaries inside /research folders have good datapoints, I am gonna use them in Deliverable#3
+* before Deliverable#3 it is work to start organizing google drive folder with submission materials
 =======
-[] Review of what we already have before Deliverable #3
+[x] Review of what we already have before Deliverable #3
 [x] Task Claude to collect research data about how humans use employment as anchor in life
 [x] Deliverable #1.3 draft
 [x] Task Claude to collect research data about trusting other humans
