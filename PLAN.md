@@ -1,7 +1,8 @@
 As the time before deadline is limited, this document is going to be in the format of a iterative todo, where the next item appears as an outcome of the previous one.
 Each new item in the list appears at the top of the list.
 
-[] create a purr_numero_uno.md with description of the first batch of tools that I plan to release before summer'26
+[] fill in the application template from google drive
+[x] create a purr_numero_uno.md with description of the first batch of tools that I plan to release before summer'26
 =======
 review notes:
 * text entries for the application are mostly done.
