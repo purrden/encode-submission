@@ -46,6 +46,20 @@
 
 ---
 
+## On Trust
+
+- Only **30% of adults globally** say most people can be trusted (Ipsos)
+- US trust in others: **46% (1972) → 34% (2018)** — declining for 40+ years
+- **61% of people globally** feel a high sense of grievance — believing the system is rigged against them (Edelman 2025)
+- Five of the **10 largest economies** are among the **least trusting nations on Earth**
+- Trust levels are declining **from one generation to the next** — it's not a blip (UN, 2024)
+- **Over half the global population** has little or no trust in their government (UN World Social Report)
+- Only **36%** of people globally believe the next generation will be better off (Edelman 2025)
+- The most trusting nations: China, Indonesia, India — **not** the technologically dominant West
+- Local trust (employer, neighbour) is holding up — **it's the big systems people have given up on**
+
+---
+
 ## The One Sentence That Connects Both
 
 The technology built to connect us is measurably making us lonelier —
