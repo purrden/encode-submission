@@ -60,6 +60,22 @@
 
 ---
 
+## On Work as Anchor
+
+- **62% of workers globally are disengaged** — doing the minimum, psychologically detached (Gallup 2024)
+- Only **21% of workers globally** are actually engaged in their work — the lowest in a decade
+- Disengagement costs the global economy **$8.9 trillion/year — 9% of global GDP**
+- **90% of UK employees** are "quiet quitting"
+- Gen Z and millennials hit peak burnout at **age 25** — 17 years earlier than previous generations
+- **Two-thirds of the psychological cost of unemployment is not about money** — it's about losing structure, identity, and social contact
+- Work is the primary source of meaning for most people — yet most people hate their work
+- **980 million jobs** face high disruption risk from AI in the near term
+- Workers aged 18–24 are **129% more likely** to fear AI will make their job obsolete than those 65+
+- The emerging concept: the **"AI precariat"** — permanent instability, unable to anchor identity to any role
+- *"Workers may lose not just income, but the anchor that work provides"* — WEF, 2025
+
+---
+
 ## The One Sentence That Connects Both
 
 The technology built to connect us is measurably making us lonelier —
