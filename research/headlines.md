@@ -32,6 +32,20 @@
 
 ---
 
+## On Hope & Belonging
+
+- **American optimism is at a record low** — the lowest ever measured by Gallup (2025/2026)
+- US adults classified as "thriving": dropped from **59% (2021) → 48% (2025)**
+- Only **1 in 4 young Germans** expect their living conditions to improve (PwC, 2024)
+- **20% of young Americans** are afraid to have children because of climate worry — rising to 30%+ among those who've lived through a disaster
+- **58% of young people** who tried to talk about climate change felt **ignored or dismissed** (Lancet, 2024)
+- **74% of Americans** feel they don't belong in their local community (Belonging Barometer)
+- **64%** don't feel they belong at work. **67%** don't feel they belong in the nation.
+- The countries *most optimistic* about the future — Kenya, Indonesia, Brazil — are largely not the ones driving the technological transformation
+- The places with the most infrastructure have the **least sense of belonging**
+
+---
+
 ## The One Sentence That Connects Both
 
 The technology built to connect us is measurably making us lonelier —
